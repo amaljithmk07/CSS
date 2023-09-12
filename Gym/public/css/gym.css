@@ -1,0 +1,193 @@
+body {
+    background: url(/public/Images/new.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.main-body {
+    background-color: #0000009b;
+    min-height: 705px;
+    width: 100%;
+}
+
+.header {
+    height: 103px;
+    width: 100%;
+    background-color: #000000;
+}
+
+.logo {
+    float: left;
+    height: 75px;
+    width: 390px;
+    /* background-color: aquamarine; */
+}
+
+#logo {
+    margin-top: -13px;
+    padding: 12px;
+    padding-left: 249px;
+    height: 100px;
+    filter: invert(1);
+    width: 100px;
+}
+
+#h1 {
+    text-shadow: 5px 0px 4px #bb673c;
+    font-size: 45px;
+    margin-left: 53px;
+    color: rgb(227, 227, 227);
+    font-weight: 800;
+    font-family: magneto, bold;
+    margin-top: -88px;
+}
+
+/* **************************************** */
+.nav {
+    float: left;
+    /* margin-left: 400px; */
+    width: 720px;
+    font-size: 20px;
+    /* font-weight: 800; */
+    height: 75px;
+    /* background-color: rgb(114, 114, 114); */
+    /* margin-top: -75px; */
+}
+
+li {
+    margin-top: 11px;
+    padding-top: 8px;
+    padding-right: 20px;
+    list-style-type: none;
+    display: block;
+    float: left;
+    padding-left: 20px;
+    border-right: 1px solid rgb(133 133 133 / 28%);
+}
+
+.a {
+    padding: 16px;
+    border: 0;
+    border-radius: 2px;
+    /* background-color: blue; */
+    text-decoration: none;
+    color: rgb(231, 231, 231);
+    font-family: 'Bauhaus 93', regular;
+
+}
+
+.a:hover {
+    color: #ff9f6c;
+    box-shadow: 0px 3px 0px 0px #ff9f6c;
+}
+
+/* ************************************* */
+
+.email {
+    float: left;
+    /* margin-top: -75px; */
+    width: 409px;
+    height: 75px;
+    /* margin-left: 1120px; */
+    /* background-color: blueviolet; */
+}
+
+.email1 {
+    padding-top: 11px;
+    padding-bottom: 11px;
+    margin-right: 44px;
+    padding-left: 35px;
+    padding-right: 30px;
+    background-color: rgb(51, 57, 62);
+    border: 2px solid rgb(120, 120, 120);
+    border-radius: 7px;
+    text-decoration: none;
+    color: white;
+    font-family: 'Bauhaus 93', regular;
+}
+
+.a1 {
+    color: white;
+    text-decoration: none;
+}
+
+.a1:hover {
+    color: #ff9f6c;
+}
+
+.email1:hover {
+    background-color: rgb(23, 23, 23);
+    border-color: #ff9f6c;
+}
+
+
+/* ******************************** */
+
+.form {
+    grid: row 50px; ;
+    border: 2px solid rgb(173 172 172 / 35%);
+    border-radius: 25px;
+    margin-top: 35px;
+    margin-left: 955px;
+    min-height: 510px;
+    width: 350px;
+    background-color: rgb(39 39 39 / 52%);
+}
+
+#p {
+    padding-left: 20px;
+    letter-spacing: 1px;
+    text-shadow: 2px 2px 5px black;
+    color: #cecece;
+    font-size: 23px;
+    font-family:cursive;
+}
+span{
+    padding-left: 58px;
+}
+
+.form1 {
+    padding-left: 26px;
+    min-width: 190px;
+    /* background-color: rgba(255, 127, 127, 0.567); */
+}
+
+.input {
+    background-color: #e6e6e6;
+    border: 0px;
+    text-align: center;
+    border-radius: 7px;
+    padding-left: auto;
+    padding-right: auto;
+    letter-spacing: 2px;
+    height: 35px;
+    width: 290px;
+    font-family: cursive;
+}
+
+#input {
+    margin-left: 70px;
+    background-color: rgb(51, 57, 62);
+    border: 2px solid rgb(120, 120, 120);
+    border-radius: 7px;
+    font-size: 20px;
+    color: #e6e6e6;
+    text-align: center;
+    padding-left: auto;
+    padding-right: auto;
+    letter-spacing: 1px;
+    height: 40px;
+    width: 150px;
+    font-family: cursive;
+    font-weight: 800;
+    margin-top: 7px;
+}
+
+#input:hover {
+
+    background-color: rgb(41, 45, 49);
+    background-color: rgb(41, 45, 49);
+    color: #bbbaba;
+}

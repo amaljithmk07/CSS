@@ -1,0 +1,121 @@
+.logo {
+
+    /* margin-top: -5px; */
+    margin-left: 20px;
+    margin-right: 22px;
+    height: 24px;
+    width: auto;
+    /* background-color: aquamarine; */
+    object-fit: cover;
+}
+
+#logo {
+    height: 28px;
+    width: auto;
+}
+
+#loc {
+    height: 18px;
+    width: auto;
+    filter: invert(1);
+    padding-right: 5px;
+}
+
+.form-amz {
+    display: block;
+    width: 590px;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: var(--bs-body-color);
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background-color: #ffffff;
+    background-clip: padding-box;
+    border: var(--bs-border-width) solid var(--bs-border-color);
+    border-radius: var(--bs-border-radius);
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+#dropdownmenubutton1 {
+    color: rgb(255, 127, 127);
+
+    background-color: var(--bs-btn-active-bg);
+    border-color: var(--bs-btn-active-border-color);
+}
+
+#search {
+    height: 25px;
+    width: auto;
+}
+
+#india {
+    height: 25px;
+    width: 30px;
+    padding-right: 5px;
+}
+
+.dropdown-item {
+    margin-left: 5px;
+    margin-top: -30px;
+}
+
+.dropdow {
+    margin-top: 30px;
+}
+
+#cartlogo {
+    height: 32px;
+    width: auto;
+}
+
+#cart {
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+}
+
+.navbar-brand {
+    --bs-navbar-brand-font-size: 16px;
+}
+
+.card2 {
+    margin-top: -270px;
+    padding-left: 50px;
+    width: 100%;
+
+    /* --bs-card-bg: #ffffff00; */
+}
+
+.card-img-top {
+    padding: 15px;
+    /* border-radius: 0px; */
+}
+
+.c1 {
+    padding: 23px;
+}
+
+.c2 {
+    padding: 0px;
+}
+
+.tables {
+    margin-top: -350px;
+}
+
+.cardpro {
+    margin-top: -418px;
+    margin-left: 776px;
+}
+
+.third {
+    margin-left: 1149px;
+    margin-top: -408px;
+}
+.fourth{
+    margin-left: 1184px;
+    margin-top: 27px;
+
+}
