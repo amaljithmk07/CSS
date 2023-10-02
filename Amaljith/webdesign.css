@@ -1,0 +1,75 @@
+.gradient {
+    font-weight: 500;
+    background: linear-gradient(to left, #7b60ff,
+            #ff3e85f4);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.gradient1 {
+    font-weight: 500;
+    background: linear-gradient(to right, #ff3e85f4,
+            #7b60ff);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+
+}
+
+.p-5 {
+    background-color: #000000;
+}
+
+.content {
+    background: linear-gradient(to right, #fc3efff4,
+            #7b60ff);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    text-align: start;
+}
+
+#home {
+    margin-top: 4em;
+}
+
+#button {
+    border: 2px solid #fc3efff4;
+
+}
+
+#card {
+    background-color: #0f0f0f;
+}
+
+.image {
+    height: auto;
+    width: auto;
+}
+
+.color {
+    background-color: #000000;
+}
+
+.image1 {
+    margin-left: auto;
+    margin-right: auto;
+    height: 12em;
+    width: 15em;
+}
+
+.card-body {
+    text-align: center;
+}
+.borders{
+    height: auto;
+    width: auto;
+    border-radius: 18px;
+background-color: rgba(0, 208, 255, 0.047);
+}
+
+.footer{
+    color:rgb(116, 44, 251);
+    text-align: center;
+     background-color: hsl(220, 4%, 15%);
+    height: 7em;
+    width: 100%;
+}
